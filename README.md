@@ -1,4 +1,32 @@
-# Shivani Aggarwal - Personal Website
+custom navbar, hero section, or animations:
+html
+Copy
+Edit
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shivani Aggarwal | Educator & AI Researcher</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to CSS -->
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+        <p>Educator | AI Researcher | EdTech Innovator</p>
+        <a href="#contact">Contact Me</a>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Passionate about integrating AI & ML with education to create holistic learning models.</p>
+    </section>
+
+    <footer>
+        <p>© 2024 Shivani Aggarwal | <a href="mailto:aggarwal.er@gmail.com">Email Me</a></p>
+    </footer>
+</body>
+</html>
 
 ## 🏠 Home  
 **"Passionate Educator | Bridging AI & Machine Learning with Human Values | EdTech Innovator"**  
