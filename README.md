@@ -1,7 +1,4 @@
-custom navbar, hero section, or animations:
-html
-Copy
-Edit
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
