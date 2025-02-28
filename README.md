@@ -13,6 +13,32 @@
         <p>Educator | AI Researcher | EdTech Innovator</p>
         <a href="#contact">Contact Me</a>
     </header>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f5f5f5;
+    text-align: center;
+}
+
+header {
+    background: #333;
+    color: white;
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background: #333;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
 
     <section>
         <h2>About Me</h2>
